@@ -1,1 +1,2 @@
 "Hello Git"
+"Hello lan 2" 
