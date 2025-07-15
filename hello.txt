@@ -1,7 +1,8 @@
 "Hello Git"
-"Hello lan 2" 
+
 hello lan 3 
 Hello lan 4 
 Hello lan thu 5 
 hello lan thu 6
 hello lần 7
+hello lần 8 (xóa hello lần 2)
